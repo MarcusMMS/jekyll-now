@@ -6,6 +6,8 @@ title: Welcome to my page!
 
 [link to Google!](http://google.com)
 
+![Graph](HW4.png)
+
 
 
 
