@@ -8,11 +8,11 @@ Below is an igraph that shows the number of retweets based upon the Twitter acco
 Next, we have an igraph that shows the number of retweets based upon the keywords "foreign public dialogue" (n = 100).
 ![Image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/Keyword%20-%20Foreign%20Public%20Dialogue.png)
 
-Below is an Excel file that visualizes Twitter data for the U.S. Embassy in Bangkok by tweets, retweets, favorites, and frequency of users.
+Below is an Excel file that visualizes Twitter data for the U.S. Embassy in Bangkok by tweets, retweets, favorites, and frequency of users. After that, we have a summary output of that data from R (and for additional data based upon the keywords "embassy dialogue."
 
 [USEmbassyBKK Twitter Visualization](https://github.com/MarcusMMS/marcusmms.github.io/blob/master/_posts/Visualize%202.xlsx)
 
-
+![Image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/_posts/GetOldTweets%20Summary.png)
 
 
 
