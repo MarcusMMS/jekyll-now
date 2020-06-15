@@ -10,7 +10,7 @@ Next, we have an igraph that shows the number of retweets based upon the keyword
 
 Below is an Excel file that visualizes Twitter data for the U.S. Embassy in Bangkok by tweets, retweets, favorites, and frequency of users.
 
-[Excel](https://github.com/MarcusMMS/marcusmms.github.io/blob/master/_posts/Visualize%202.xlsx)
+[USEmbassyBKK Twitter Visualization](https://github.com/MarcusMMS/marcusmms.github.io/blob/master/_posts/Visualize%202.xlsx)
 
 
 
