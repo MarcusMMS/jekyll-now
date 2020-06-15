@@ -2,8 +2,7 @@
 layout: post
 title: Welcome to my page!
 ---
-This is a graph that shows...
-![Graph](https://github.com/MarcusMMS/marcusmms.github.io/blob/master/HW4.png)
+Below is an igraph that shows the number of retweets based upon the Twitter account of the U.S. Department of State (n = 1,000).
 
 
 
