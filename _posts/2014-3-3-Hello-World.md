@@ -12,11 +12,11 @@ Below are two CSV files that contain Twitter data (e.g., tweets, retweets, favor
 
 ![Data by username](https://github.com/MarcusMMS/marcusmms.github.io/blob/master/Username%20-%20USEmbassyBKK.csv)
 
-![Data by query](https://github.com/MarcusMMS/marcusmms.github.io/blob/master/Query%20-%20Embassydialogue.csv)
+
 
 We also have an Excel file that visualizes the Twitter data for the first aforementioned CSV file, and after that, we have a summary output of the data from R based on both CSV files.
 
-[USEmbassyBKK Twitter Visualization](https://github.com/MarcusMMS/marcusmms.github.io/blob/master/_posts/Visualize%202.xlsx)
+[USEmbassyBKK Twitter visualization](https://github.com/MarcusMMS/marcusmms.github.io/blob/master/_posts/Visualize%202.xlsx)
 
 ![Image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/_posts/GetOldTweets%20Summary.png)
 
