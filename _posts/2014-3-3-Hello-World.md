@@ -6,7 +6,7 @@ Below is an igraph that shows the number of retweets based upon the Twitter acco
 
 ![Image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/_posts/State%20Department%20igraph.png)
 
-Next, we have an igraph that shows the number of retweets based upon the keywords "foreign public dialogue" (n = 100).
+Next, we have an igraph that shows the number of retweets based upon the keywords, "foreign public dialogue" (n = 100).
 ![Image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/Keyword%20-%20Foreign%20Public%20Dialogue.png)
 
 Below are links to two CSV files that contain Twitter data (e.g., tweets, retweets, favorites, and frequency of users). The first CSV file is comprised of data based on the Twitter handle, @USEmbassyBKK (the U.S. embassy in Bangkok). The data cover November 1, 2019, to March 6, 2020. The second CSV file is based on a query of the keywords, "embassy dialogue." The data cover January 2, 2019, to January 15, 2020.
