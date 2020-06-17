@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to my page! I'm new to GitHub. I'm interested in how the U.S. engages with foreign publics. 
+title: Welcome to my page! I'm new to GitHub. I'm interested in how the U.S. Government engages with foreign publics. 
 ---
-Below is an igraph that shows the number of retweets based upon the Twitter account of the U.S. Department of State (n = 1,000).
+Below is an igraph that shows the number of retweets based upon the Twitter account of the U.S. Department of State, @StateDept (n = 1,000).
 
 ![Image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/_posts/State%20Department%20igraph.png)
 
@@ -15,11 +15,9 @@ Below are links to two CSV files that contain Twitter data (e.g., tweets, retwee
 
 [Data by query](https://github.com/MarcusMMS/marcusmms.github.io/blob/master/Query%20-%20Embassydialogue.csv)
 
-We also have an Excel file that visualizes the Twitter data for the first aforementioned CSV file, and after that, we have a summary output of the data from R based on both CSV files.
+We also have an Excel file below that visualizes the Twitter data for the first aforementioned CSV file.
 
 [USEmbassyBKK Twitter visualization](https://github.com/MarcusMMS/marcusmms.github.io/blob/master/_posts/Visualize%202.xlsx)
-
-![Image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/_posts/GetOldTweets%20Summary.png)
 
 
 
