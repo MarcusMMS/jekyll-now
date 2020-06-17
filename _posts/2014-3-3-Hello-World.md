@@ -27,22 +27,13 @@ Next, we have plots to visualize the Twitter data of the second aforementioned C
 
 Total retweets = 2537
 
-Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-   0.00    0.00    0.00    2.88    3.00  153.00 
-
 ![image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/Replies.png)
 
 Total replies = 876
 
-Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
-  0.0000   0.0000   0.0000   0.9943   1.0000 211.0000 
-
 ![image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/Favorites.png)
 
 Total favorites = 8246
-
-Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-   0.00    0.00    2.00    9.36    7.00  745.00 
 
 ![image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/Mentions.png)
 
