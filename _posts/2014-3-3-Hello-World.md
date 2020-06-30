@@ -47,7 +47,7 @@ Here is coding I did for my Advanced Data Programming Course...
 
 ![image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/HW6p1.png)
 
-![image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/HW6p2.png)
+![image](https://raw.githubusercontent.com/MarcusMMS/marcusmms.github.io/master/_posts/HW6p3.png)
 
 
 
